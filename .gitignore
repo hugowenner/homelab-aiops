@@ -1,0 +1,12 @@
+.env
+.env.*
+data/
+volumes/
+backups/
+*.db
+*.sqlite
+node_modules/
+*.log
+.n8n/
+reports/
+secrets/
