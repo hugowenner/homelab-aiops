@@ -30,8 +30,8 @@ Este projeto foi criado para estudo prático e evolução profissional em:
 | Placa-mãe | ASRock Fatal1ty Z97 Killer |
 | SO | Zorin OS 18.1 (headless) |
 | Hostname | `lord` |
-| IP local | `192.168.0.50` |
-| Tailscale | `100.74.77.110` |
+| IP local | `----------` |
+| Tailscale |  `----------` |
 
 > **Nota GPU:** A R9 290/390 usa arquitetura GCN 2.0, sem suporte ao ROCm.  
 > Driver `radeon` (estável). Inferência Ollama roda na CPU — com 32 GB de RAM os modelos cabem tranquilamente.
